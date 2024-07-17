@@ -1,6 +1,8 @@
 ## About Me:
 👋 Hello, my name is Katya!
+<br>
 ⚡ I'm a passionate developer with a strong interest in frontend technologies and UI/UX design. 
+<br>
 🌱 I enjoy creating interactive and dynamic web applications that provide seamless user experiences.
 
 ## Tech Stack:
