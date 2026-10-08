@@ -6,7 +6,7 @@
 
 <br>
 
-Frontend developer with **2.5 years of commercial experience** in **React, TypeScript, and Next.js**.
+Frontend developer working with **React, TypeScript, and Next.js**.
 
 I build features from **API integrations, business logic, and CMS data** to **SSR and interactive interfaces**. I enjoy investigating unfamiliar problems, proposing technical and UX improvements, and turning them into working features.
 
@@ -64,7 +64,7 @@ Research · code review · Claude · Cursor
 </tr>
 </table>
 
-I spent 2.5 years at **SALT AND PEPPER**, working on e-commerce, media, real estate, and corporate platforms. Most commercial work lives in private repositories; this profile contains personal projects and experiments.
+At **SALT AND PEPPER**, I worked on frontend features for e-commerce, media, real estate, and corporate platforms. Most commercial work lives in private repositories; this profile contains personal projects and experiments.
 
 I'm also studying **Applied Informatics at MISIS on the ML/AI track** and taking part in team hackathons. I'm interested in growing toward fullstack development while deepening my frontend expertise.
 
